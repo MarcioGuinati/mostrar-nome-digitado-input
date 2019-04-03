@@ -1,0 +1,11 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#nome{
+	margin-top: 10px;
+}
+#buttonClick{
+	position: relative;
+	margin-top: 5px; 
+}
